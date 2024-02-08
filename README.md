@@ -6,7 +6,7 @@
     <li>MCA (TYP-2 YEAR PROGRAMME)</li>
     <li>MCA (FYIP-5 YEAR PROGRAMME </li>
   </ol>
-  <b style="Arial" font size=52> OTHER DEPARTMENTS</b>
+  <b style="color:red;" font size=52> OTHER DEPARTMENTS</b>
   <ul>
     <li>MSC CSDA (COMPUTATIONAL STATISTICS AND DATA ANALYSTICS</li>
     <li>B-TECH CS ENGEERNING</li>
