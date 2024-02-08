@@ -14,7 +14,8 @@
   </ul>
   <hr>
   <p style="background-color:powderblue;">This is my first Experienced class which  has ever joined in my life</p>
-  <a href="https://www.w3schools.com/html/html_attributes.asp">w3 schools</a>
+  <a href="https://www.w3schools.com/html/html_attributes.asp">w3 schools</a><br>
   <strong>This is the Second paragraph of my repositery</strong>
+  <em>This is the third paragraph of my repositery</em>
 </body>
 </html>
