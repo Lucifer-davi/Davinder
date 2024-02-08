@@ -12,6 +12,7 @@
     <li>B-TECH CS ENGEERNING</li>
     <li>OTHER DEPARTMENTS</li>
   </ul>
-  <marquee> My Name is Davinder Kumar</marquee>
+  <hr>
+  <p>This is my first Experienced class which  has ever joined in my life</p>
 </body>
 </html>
