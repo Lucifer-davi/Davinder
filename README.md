@@ -11,7 +11,7 @@
   <ul>
     <li>MSC CSDA (COMPUTATIONAL STATISTICS AND DATA ANALYSTICS</li>
     <li>Business Managment</li>
-    <li>OTHER DEPARTMENTS</li>
+    
   </ul>
   <hr>
   <p style="background-color:powderblue;">This is my first Experienced class which  has ever joined in my life</p>
