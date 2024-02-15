@@ -7,10 +7,10 @@
     <li>MCA (FYIP-5 YEAR PROGRAMME </li>
   </ol>![Screenshot (2)](https://github.com/Lucifer-davi/Davinder/assets/158458730/72044076-f24b-488c-a3cb-4da7997cecbd)
 
-  <b style="color:red;" font size=52> OTHER DEPARTMENTS</b>
+  <b style="color:red;" font size=72> OTHER DEPARTMENTS</b>
   <ul>
     <li>MSC CSDA (COMPUTATIONAL STATISTICS AND DATA ANALYSTICS</li>
-    <li>B-TECH CS ENGEERNING</li>
+    <li>Business Managment</li>
     <li>OTHER DEPARTMENTS</li>
   </ul>
   <hr>
